@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="max-widthPosition.css" type="text/css" />
+    </head>  
+    <body>
+        <p>Hola yo soy un parrafo!!!</p>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+        <div>lalalaallaa</div>
+    </body>
+</html>
