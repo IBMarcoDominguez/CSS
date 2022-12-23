@@ -1,0 +1,67 @@
+body {
+    background-color: #eee;
+}
+
+/*Primera caja*/
+.box1 {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-left: 4px solid red;
+    transition: 0.3s;
+    box-shadow: 0px 2px 2px rgba(255, 0, 0, 0.3);
+    cursor: pointer;
+    /*border-radius: 10px;*/
+}
+
+.box1 p{
+    padding: 10px;
+    text-align: center
+}
+
+.box1:hover {
+    transform: scale(1.05,1.05);
+}
+
+/*Segunda caja*/
+.box2 {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-left: 4px solid green;
+    transition: 0.3s;
+    box-shadow: 0px 2px 2px rgba(0, 128, 0, 0.3);
+    cursor: pointer;
+}
+
+.box2 p{
+    padding: 10px;
+    text-align: center
+}
+
+.box2:hover {
+    box-shadow: 0px 4px 4px rgba(0, 128, 0, 0.3);
+
+}
+
+/*Segunda caja*/
+
+.box3 {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-left: 4px solid blue;
+    transition: 0.3s;
+    box-shadow: 0px 2px 2px rgba(0, 0, 255, 0.3);
+    cursor: pointer;
+}
+
+.box3 p{
+    padding: 10px;
+    text-align: center
+}
+
+.box3:hover {
+    background-color: cornflowerblue;
+
+}
