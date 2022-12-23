@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="main2.css" type="text/css"/>
+    </head>
+    <body>
+        <p id="parrafo">Este es un parrafo</p>
+        <span class="etiqueta1">Esto es un span</span>
+        <br />
+        <span class="etiqueta2">Esto es un  segundo span</span>
+        <br />
+        <span class="etiqueta3">Esto es un tercer span</span>
+    </body>
+</html>
