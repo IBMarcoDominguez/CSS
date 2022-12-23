@@ -1,0 +1,18 @@
+body{
+    background-color: #efefef;
+}
+#parrafo{
+    color: #ff0000;
+}
+.etiqueta1{
+    color: #2d00aa;
+}
+
+.etiqueta2{
+    color: #99202c;
+}
+
+
+.etiqueta3{
+    color: #00aa00;
+}
