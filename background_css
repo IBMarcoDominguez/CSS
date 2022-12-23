@@ -1,0 +1,15 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    /* para background-image se usa direccion,color1,color2*/
+    /*to right,to left,to top,to bottom,-45deg*/
+    background-image: repeating-linear-gradient(0deg,rgba(255,0,0,1)
+    10%,tomato 20%);
+}
+
+.fondo p{
+    color:black;
+    font-family:fantasy;
+}
