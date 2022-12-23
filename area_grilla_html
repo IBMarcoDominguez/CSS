@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="areaGrilla.css" type="text/css" />
+    </head>
+    <body>
+        <div class="grid">
+        <div>Header</div>
+        <div>Header</div>
+        <div>Content</div>
+        <div>Sidebar</div>
+        <div>Footer</div>
+        <div>Footer</div>
+    </body>
+</html>
