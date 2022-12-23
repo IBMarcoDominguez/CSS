@@ -1,0 +1,14 @@
+body {
+    background-color: #eee;
+}
+
+.grid {
+    display: grid;
+    /*diseña en tamaño de la casilla ancho y alto*/
+    grid-template-rows: minmax(1oopx, auto);
+    grid-template-columns: minmax(auto,50%) 1fr 3em;
+}
+
+.element {
+    background-color: red;
+}
