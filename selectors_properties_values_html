@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="main.css" type="text/css"/>
+    </head>
+    <body>
+        <p>Este es un parrafo</p>
+        <span>Esto es un span</span>
+    </body>
+</html>
