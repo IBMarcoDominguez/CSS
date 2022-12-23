@@ -1,0 +1,28 @@
+html{
+    height: 100%;
+}
+
+body {
+    background-color: #eee;
+    height: 100%;
+}
+/*La grilla se define literal grilla*/
+.grid {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: repeat(4, 50px);
+    grid-template-rows: repeat(3, 30px);
+    grid-gap: 5px;
+    justify-content: start;
+    align-content: center;
+}
+
+.header {
+    grid-column: col-inicio / col-fin 3;
+    grid-row: row-inicio / row-fin 3;
+}
+
+.red {
+    background-color: red;
+}
