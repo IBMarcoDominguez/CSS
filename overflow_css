@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(233, 223, 223);
+}
+
+#over {
+    width: 100px;
+    height: 100px;
+    /*visible, hidden, scroll (forzar overflow con -x o -y), auto */
+    overflow-y: scroll;
+}
