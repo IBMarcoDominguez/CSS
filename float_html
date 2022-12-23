@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="float.css" type="text/css" />
+    </head>  
+    <body>
+        <p>Ingeenir Biomedical and Software Developer</p>
+        <div>
+            <img src="https://placebeard.it/200x200" />
+            <p>Donde vamos a indicar un texto mas largo de lo
+                normal para ver comoa ctua la propiedad de float!!!.
+            </p>
+        </div>
+    </body>
+</html
