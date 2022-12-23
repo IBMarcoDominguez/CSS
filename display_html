@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <link rel="stylesheet" href="display.css" type="text/css" />
+    </head>  
+    <body>
+        <p>Hola soy un bloque!</p>
+        <h1>son bloque!</h1>
+        <div>tambien un bloque!</div>
+        <form>lala</form>
+        <header>tambien un bloque!!!</header>
+        <footer>otro bloque!</footer>
+        <selection>otro bloque mas!</selection>
+        <span>soy un inline!</span>
+        <a>link tambien es inline!</a>
+        <div id="invisible">soy invisible!</div>
+    </body>
+</html>
